@@ -1,10 +1,13 @@
-# ISARA Catalyst™ TLS 0.1 Testbed Samples
+
+# ISARA Catalyst™ TLS Testbed Samples
 
 ## Samples
 
 Sample code for Catalyst TLS.  Each directory has a self-contained program
 inside demonstrating how to use Catalyst TLS for a specific purpose:
 
+* `ciphersuites` &mdash; Display the names of cipher suites supported by the
+  library.
 * `client` &mdash; A client demonstrating how to use TLS to connect to a
   server, perform a TLS handshake with classical or quantum-safe cipher suites
   with optional client authentication, and exchange application data securely.
@@ -69,7 +72,7 @@ Execute the samples with no arguments to use the default parameters, or use
 ### Security Issues
 
 For information about reporting security issues, please read the
-[SECURITY](SECURITY.md)
+[SECURITY](https://github.com/isaracorp/TLS-Samples/blob/master/SECURITY.md)
 document.
 
 ## License
@@ -77,13 +80,13 @@ document.
 See the `LICENSE` file for details:
 
 > Copyright (C) 2019, ISARA Corporation
->
+> 
 > Licensed under the Apache License, Version 2.0 (the "License");
 > you may not use this file except in compliance with the License.
 > You may obtain a copy of the License at
->
+> 
 > http://www.apache.org/licenses/LICENSE-2.0
->
+> 
 > Unless required by applicable law or agreed to in writing, software
 > distributed under the License is distributed on an "AS IS" BASIS,
 > WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
