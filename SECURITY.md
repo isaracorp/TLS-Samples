@@ -1,4 +1,4 @@
-# ISARA Catalyst™ TLS 0.1 Testbed Security Issues
+# ISARA Catalyst™ TLS Testbed Security Issues
 ISARA Corporation <info@isara.com>
 v0.1 2019-03: Copyright (C) 2019 ISARA Corporation, All Rights Reserved.
 
