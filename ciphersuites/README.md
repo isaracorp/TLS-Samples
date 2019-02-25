@@ -1,4 +1,6 @@
 
+:version-label!:
+:revnumber!:
 # ISARA Catalyst™ TLS Testbed Cipher Suites Sample
 
 ## Introduction to Cipher Suites
@@ -34,7 +36,7 @@ Execute the sample, `ciphersuites`. It has no parameters.
 
 See the `LICENSE` file for details:
 
-> Copyright (C) 2019, ISARA Corporation
+> Copyright © 2019, ISARA Corporation
 > 
 > Licensed under the Apache License, Version 2.0 (the "License");
 > you may not use this file except in compliance with the License.

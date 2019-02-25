@@ -1,4 +1,6 @@
 
+:version-label!:
+:revnumber!:
 # ISARA Catalyst™ TLS Testbed Client Sample
 
 ## Introduction to the TLS Client
@@ -82,7 +84,7 @@ and CRLs for the sample `client`.
 
 See the `LICENSE` file for details:
 
-> Copyright (C) 2019, ISARA Corporation
+> Copyright © 2019, ISARA Corporation
 > 
 > Licensed under the Apache License, Version 2.0 (the "License");
 > you may not use this file except in compliance with the License.
